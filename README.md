@@ -1,4 +1,4 @@
 # hello_demo
-This is my first repository.
+This is my first repo
 <br>
 Author - tanusree
